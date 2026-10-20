@@ -1,4 +1,3 @@
-# crop_mapping_project
 # Crop-Type Classification from Fused Optical-Radar Data
 
 Traditional machine learning (scikit-learn) versus deep learning (TensorFlow/Keras) for classifying seven crop types, evaluated with both a random split and a spatially separated block split.
